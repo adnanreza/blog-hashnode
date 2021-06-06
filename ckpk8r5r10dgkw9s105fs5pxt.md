@@ -6,12 +6,12 @@ Creating React applications involves repeating code multiple times. For instance
 
 - `rcc` | Creating a class-based component
 
-<iframe src="https://giphy.com/embed/iPazNi9cfnCgkZbSTN" width="480" height="262" frameBorder="0" class="giphy-embed" allowFullScreen></iframe>
+<amp-iframe src="https://giphy.com/embed/iPazNi9cfnCgkZbSTN" width="480" height="262" frameBorder="0" class="giphy-embed" allowFullScreen></amp-iframe>
 
 
 -  `rafc` | Creating a functional component
 
-<iframe src="https://giphy.com/embed/56nFZlrEiMaReBAvn5" width="480" height="262" frameBorder="0" class="giphy-embed" allowFullScreen></iframe>
+<amp-iframe src="https://giphy.com/embed/56nFZlrEiMaReBAvn5" width="480" height="262" frameBorder="0" class="giphy-embed" allowFullScreen></amp-iframe>
 
 You can find the entire list of snippets on the  [official page](https://marketplace.visualstudio.com/items?itemName=dsznajder.es7-react-js-snippets).
 
@@ -20,7 +20,7 @@ You can find the entire list of snippets on the  [official page](https://marketp
 
 As the name suggests, this handy extension automatically renames your closing tag when you rename your opening tag and vice versa. For instance, if you decide to change an `<h1>` to `<h2>`, the closing tag will be automatically renamed from an `</h1>` to `</h2>`.
 
-<iframe src="https://giphy.com/embed/gzIi2b4U7ss0lMIm3W" width="480" height="262" frameBorder="0" class="giphy-embed" allowFullScreen></iframe>
+<amp-iframe src="https://giphy.com/embed/gzIi2b4U7ss0lMIm3W" width="480" height="262" frameBorder="0" class="giphy-embed" allowFullScreen></amp-iframe>
 
 
 ## 3. [Bracket Pair Colorizer](https://marketplace.visualstudio.com/items?itemName=CoenraadS.bracket-pair-colorizer) 
