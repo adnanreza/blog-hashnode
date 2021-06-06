@@ -6,12 +6,12 @@ Creating React applications involves repeating code multiple times. For instance
 
 - `rcc` | Creating a class-based component
 
-<amp-iframe src="https://giphy.com/embed/iPazNi9cfnCgkZbSTN" width="480" height="262" frameBorder="0" class="giphy-embed" allowFullScreen></amp-iframe>
+<iframe src="https://giphy.com/embed/iPazNi9cfnCgkZbSTN" width="480" height="262" frameBorder="0" class="giphy-embed" allowFullScreen></iframe>
 
 
 -  `rafc` | Creating a functional component
 
-<amp-iframe src="https://giphy.com/embed/56nFZlrEiMaReBAvn5" width="480" height="262" frameBorder="0" class="giphy-embed" allowFullScreen></amp-iframe>
+<iframe src="https://giphy.com/embed/56nFZlrEiMaReBAvn5" width="480" height="262" frameBorder="0" class="giphy-embed" allowFullScreen></iframe>
 
 You can find the entire list of snippets on the  [official page](https://marketplace.visualstudio.com/items?itemName=dsznajder.es7-react-js-snippets).
 
@@ -20,13 +20,13 @@ You can find the entire list of snippets on the  [official page](https://marketp
 
 As the name suggests, this handy extension automatically renames your closing tag when you rename your opening tag and vice versa. For instance, if you decide to change an `<h1>` to `<h2>`, the closing tag will be automatically renamed from an `</h1>` to `</h2>`.
 
-<amp-iframe src="https://giphy.com/embed/gzIi2b4U7ss0lMIm3W" width="480" height="262" frameBorder="0" class="giphy-embed" allowFullScreen></amp-iframe>
+<iframe src="https://giphy.com/embed/gzIi2b4U7ss0lMIm3W" width="480" height="262" frameBorder="0" class="giphy-embed" allowFullScreen></iframe>
 
 
 ## 3. [Bracket Pair Colorizer](https://marketplace.visualstudio.com/items?itemName=CoenraadS.bracket-pair-colorizer) 
 
 Do you ever find it difficult to match bracket pairs, especially when there are multiple nested levels? Bracket Pair Colorizer identifies matching brackets with colors.
 
-<amp-iframe src="https://giphy.com/embed/wHW07aJdL9IW19denF" width="480" height="262" frameBorder="0" class="giphy-embed" allowFullScreen></amp-iframe>
+<iframe src="https://giphy.com/embed/wHW07aJdL9IW19denF" width="480" height="262" frameBorder="0" class="giphy-embed" allowFullScreen></iframe>
 
 Thanks for reading! Let me know in the comments if there are any others that have helped you out.
