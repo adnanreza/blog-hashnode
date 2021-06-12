@@ -1,6 +1,6 @@
 ## React Search Filter using Hooks, Context API, and RegEx
 
-In this article, we will implement a **search filter** to filter blog posts in React from scratch. Along the way, you will learn how to set up and use the * [Context AP](https://reactjs.org/docs/context.html) I* to manage global state in your React App. We will also learn about *actions*, *reducers*, *regular expressions* and how they all fit into the search filter we will build. 
+In this article, we will implement a **search filter** to filter blog posts in React from scratch. Along the way, you will learn how to set up and use the * [Context API](https://reactjs.org/docs/context.html)* to manage global state in your React App. We will also learn about *actions*, *reducers*, *regular expressions* and how they all fit into the search filter we will build. 
 
 <iframe src="https://giphy.com/embed/8wm7kdqhkdq4RQGyz7" width="480" height="264" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p>
 
